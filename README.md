@@ -8,7 +8,7 @@ Information gathering & OSINT reconnaissance tool for phone numbers.
 
 One of the most advanced tools to scan phone numbers using only free resources. The goal is to first gather basic information such as country, area, carrier and line type on any international phone numbers with a very good accuracy. Then try to determine the VoIP provider or search for footprints on search engines to try identify the owner.
 
-### [OSINT Tutorial: Building an OSINT Reconnaissance Tool from Scratch](https://medium.com/@SundownDEV/phone-number-scanning-osint-recon-tool-6ad8f0cac27b)
+### [OSINT Tutorial: Building an OSINT Reconnaissance Tool from Scratch](https://medium.com/@Venu Sarathy/phone-number-scanning-osint-recon-tool-6ad8f0cac27b)
 
 ## Features
 
@@ -40,7 +40,7 @@ Use `any` to disable this feature. Default value: `all`
 ## Installation
 
 ```bash
-git clone https://github.com/sundowndev/PhoneInfoga
+git clone https://github.com/Venu-Sarathy/phoneinfoga
 cd PhoneInfoga/
 python3 -m pip install -r requirements.txt
 ```
